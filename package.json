@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/geforcesong/comtool/issues"
   },
-  "homepage": "https://github.com/geforcesong/comtool#readme"
+  "homepage": "https://github.com/geforcesong/comtool#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
 }
